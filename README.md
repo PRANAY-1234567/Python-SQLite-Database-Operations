@@ -7,6 +7,7 @@ This project demonstrates basic database operations using Python's built-in `sql
 ## 🛠️ Technologies Used
 
 * **Python** – Programming language
+* 
 * **SQLite** – Lightweight database
 * **sqlite3** – Python module for interacting with SQLite databases
 
