@@ -107,3 +107,7 @@ The objective of this project is to understand how Python interacts with an SQLi
 ## 👨‍💻 Author
 
 **Pranay Vishwanath Jadhao**
+
+<img width="1236" height="851" alt="image" src="https://github.com/user-attachments/assets/302cbda8-44cc-43ad-8dd5-7d31a90eaaf3" />
+
+<img width="1307" height="878" alt="image" src="https://github.com/user-attachments/assets/458fc794-87c5-4b28-a1b7-0f39572b2824" />
