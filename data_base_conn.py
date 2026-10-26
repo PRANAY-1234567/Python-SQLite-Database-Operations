@@ -11,4 +11,5 @@ conn.commit
 res = cur.execute("""SELECT * FROM python WHERE NAME = 'Pranay'""")
 for i in res.fetchall():
     print(i)
-conn.close()'''
+conn.close()
+'''
