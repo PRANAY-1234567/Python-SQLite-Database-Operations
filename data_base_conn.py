@@ -1,4 +1,5 @@
-'''import sqlite3 # To create Dummy database   
+'''
+import sqlite3 # To create Dummy database   
 conn = sqlite3.connect('database.db')
 cur = conn.cursor()
 cur.execute("""CREATE TABLE if not exists python (name varchar(20),age int, address varchar(20))""")
